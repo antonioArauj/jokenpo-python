@@ -10,7 +10,7 @@ Antes de rodar o jogo, certifique-se de ter o **Python** instalado no seu comput
 
 ### 🔽 Checando se possui o Python (Windows)
 1. verifique se você possui o Phytonm execute o seguinte comando: 
-       ```sh
+   ```sh
    python --version
    ```
    Se a aparecer a versão correta, show, você está apto a jogar, caso não retorne, siga para os seguintes passos: 
